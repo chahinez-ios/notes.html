@@ -1,2 +1,3 @@
 # notes.html
-<p><em>My<mark>HTML</mark></em></p> note change
+<h1> headlines stuff </h1>
+Talking to my god my dad has been in a lot better since 
