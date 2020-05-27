@@ -1,2 +1,2 @@
 # notes.html
-My HTML note change
+<p>My HTML note</p>change
