@@ -6,6 +6,9 @@ div {border: 1px solid green} </style>
 <p> this is the stuff I have to do </p>
 <ol>
 <li> learn HTML 
+<ul> 
+<li> shit
+</ul>
 <li> learn CSS
 <li> learn python
 </ol>
