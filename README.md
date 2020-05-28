@@ -1,14 +1,16 @@
-# notes.html
+Un# notes.html
 <h3> headlines stuff </h3>
-<p><mark> hey! </mark></p>
-<style> p{border: 1px solid green}
-div {border: 1px solid green} </style> 
-<p> this is the stuff I have to do </p>
-<ol>
-<li> learn HTML 
-<ul> 
-<li> shit
-</ul>
-<li> learn CSS
-<li> learn python
-</ol>
+<p> 
+hey! 
+</p>
+<p> 
+this is the stuff I have to do 
+</p>
+   <ol>
+      <li> learn HTML 
+          <ul> 
+             <li> shit
+          </ul>
+      <li> learn CSS
+      <li> learn python
+  </ol>
