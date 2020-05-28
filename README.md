@@ -1,3 +1,11 @@
 # notes.html
-<head> headlines stuff </head>
-Talking to my god my dad has been in a lot better since 
+<h3> headlines stuff </h3>
+<mark> hey! </mark><br>
+<style> p{border: 1px solid green}
+div {border: 1px solid green} </style> 
+<p> this is the stuff I have to do </p>
+<ol>
+<li> learn HTML 
+<li> learn CSS
+<li> learn python
+</ol>
