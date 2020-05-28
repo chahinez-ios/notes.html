@@ -14,3 +14,7 @@ this is the stuff I have to do
       <li> learn CSS
       <li> learn python
   </ol>
+
+
+Im adding a url bitches <a href="https://www.google.com/maps/@37.0625,-95.677068,2z"> Google maps
+                        </a>
