@@ -18,3 +18,6 @@ this is the stuff I have to do
 
 Im adding a url bitches <a href="https://www.google.com/maps/@37.0625,-95.677068,2z"> Google maps
                         </a>
+
+<img src="https: https://images.app.goo.gl/hb2k4RAiKQmL5izh8"
+     alt="Idk">
