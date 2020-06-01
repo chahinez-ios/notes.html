@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
        <title> my html 
-       </title>
+     </head>
     <body>
 <h3> headlines stuff </h3>
 <p> 
