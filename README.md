@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-Un# notes.html
+<html lang="en">
+    <head>
+       <title> my html 
+       </title>
+    <body>
 <h3> headlines stuff </h3>
 <p> 
 hey! 
@@ -22,3 +26,4 @@ Im adding a url bitches <a href="https://www.google.com/maps/@37.0625,-95.677068
 
 <img src="https: https://images.app.goo.gl/hb2k4RAiKQmL5izh8"
      alt="Idk">
+</body>
