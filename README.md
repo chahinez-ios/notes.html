@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 Un# notes.html
 <h3> headlines stuff </h3>
 <p> 
