@@ -2,6 +2,10 @@
 <html lang="en">
     <head>
        <title> my html</title>
+<style>
+.tamere{
+font-variant: small-caps;}
+</style>
      </head>
     <body>
 <h3> headlines stuff </h3>
