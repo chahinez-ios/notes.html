@@ -8,7 +8,7 @@ font-variant: small-caps;}
 </style>
      </head>
     <body>
-<h3> headlines stuff </h3>
+<h3 class="tamere"> headlines stuff </h3>
 <p> 
 hey! 
 </p>
