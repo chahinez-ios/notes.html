@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+<link real="stylesheet" href="style.css">
        <title> my html</title>
 <style>
 .tamere{
