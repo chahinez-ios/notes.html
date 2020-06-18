@@ -6,13 +6,15 @@
 <style>
 .tamere{
 font-variant: small-caps;}
-</style>
+</style>}
+        .box{
+        display:flex}
      </head>
     <body>
 <h3 class="tamere"> headlines stuff </h3>
 <p> 
 hey! 
-</p>
+</p class=".box" >
 <p> 
 this is the stuff I have to do 
 </p>
